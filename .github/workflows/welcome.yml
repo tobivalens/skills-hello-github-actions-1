@@ -7,4 +7,4 @@ permissions:
 jobs:
   welcome:
     name: Post welcome comment
-    runs-on: ubuntu-lates
+    runs-on: ubuntu-latest
